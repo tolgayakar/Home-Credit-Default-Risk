@@ -1,6 +1,6 @@
 # Home-Credit-Default-Risk
 
-This is Kaggle competition with 0.7963 accuracy.
+This is a Kaggle competition with 0.7963 accuracy.
 
 **Description** : Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
